@@ -1,0 +1,16 @@
+{
+  "short_name": "DrishtiAI",
+  "name": "DrishtiAI – Rural Retinopathy Screening",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#082f49",
+  "theme_color": "#0284c7",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
